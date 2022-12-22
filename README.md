@@ -1,4 +1,5 @@
-Evidencija_prehrane_v2
-Anita Ivkov
+# Evidencija_prehrane_v2
 
-Druga verzija projekta u kojoj su popravljeni problemi s modelom 
+Studentica: Anita Ivkov
+
+Evidencija_prehrane_v2 je verzija napravljena nakon isteka roka za predaju PzW projektnog zadatka u kojoj su ispravljene greške na modelima i omogućen daljnji rad na zadatku.
