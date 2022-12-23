@@ -37,7 +37,7 @@ class ObrokFactory(DjangoModelFactory):
     obrok_zajutrak = factory.Faker("zajutrak")
     obrok_dorucak = factory.Faker("dorucak")
     obrok_rucak = factory.Faker("rucak")
-    obrok_uzina = factorNamirnicaFactoryy.Faker("uzina")
+    obrok_uzina = NamirnicaFactory.Faker("uzina")
     obrok_vecera = factory.Faker("vecera")
     obrok_komentar = factory.Faker("komentar")
 
