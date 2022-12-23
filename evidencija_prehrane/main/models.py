@@ -81,3 +81,4 @@ class Datum(models.Model):
         return str(self.datum_datum)
 
     datum_obroka = models.ForeignKey(Obrok, on_delete=models.CASCADE, default=None)
+    
